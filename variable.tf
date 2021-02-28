@@ -3,9 +3,9 @@ variable "subnet_ids" {
   type = list(any)
 }
 
-# variable "db_access" {
-#   type = list(any)
-# }
+variable "db_access" {
+  type = list(any)
+}
 # variable "identifier" {
 
 # }
