@@ -29,8 +29,7 @@ module "rds_instance" {
   ]
 
 }
-  ]
-}
+
 ```
 ### Please run
 ```
