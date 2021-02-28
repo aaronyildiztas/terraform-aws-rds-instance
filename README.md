@@ -8,7 +8,7 @@ terraform-aws-rds-instance
 ### Please copy paste the below code. Make sure to update username and password!
 ```
 module "rds_instance" {
-  source = "source = "aaronyildiztas/rds_instance/aws"
+  source = "aaronyildiztas/rds_instance/aws"
   region = "us-east-2"
   subnet_ids = [
     "subnet-0e4ada4fa0273cc58",
